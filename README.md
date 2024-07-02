@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy.gif?cid=ecf05e471nrmbbtcrbkps4vo0b8g0xmszawgpxmvyr3qgvi6&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+</div>
+
+
 <h1 align="center">Hi, I'm Niaz Morshed</h1>
 <h3 align="center">I am a passionate Full Stack developer and programming enthusiast, aspiring to make something creative with the skills I have gained so far. I also love to travel and play games </h3>
 
