@@ -42,6 +42,6 @@
 <img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/Bootsrap.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/mysql.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/php.png"/>
 <img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/web.png"/>
 </p><br/>
