@@ -26,23 +26,22 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/Bootsrap.png">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/HTML.png">
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/css.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/tailwind.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/JavaScript.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/node.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/express.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/mongo.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/firebase.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/react.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/python.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/cpp.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/Bootsrap.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/mysql.png"/>
+<img src="https://github.com/niazmorshed3/niazmorshed3/blob/main/Icons/web.png"/>
 </p><br/>
