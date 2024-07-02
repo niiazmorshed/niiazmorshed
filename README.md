@@ -22,6 +22,11 @@
 <a href="https://www.leetcode.com/niazmorshedrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niazmorshedrafi" height="30" width="40" /></a>
 </p>
 
+<br>
+## : Status
+[![GitHub Streak](https://streak-stats.demolab.com?user=niaz3&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+
 ## :computer: Technologies that I know
 
 <br>
