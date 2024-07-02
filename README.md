@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Niaz Morshed</h1>
-<h3 align="center">Welcome Here</h3>
+<h3 align="center">I am a passionate frontend developer and programming enthusiast, aspiring to make something creative with the skills I have gained so far. I also love to travel and play games </h3>
 
 ## :mailbox: Connect With Me
 <p align="center">
