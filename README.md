@@ -9,10 +9,10 @@
 ## :mailbox: Connect With Me
 <p align="center">
   <br/>
-<a href="https://twitter.com/niazmorshed_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niazmorshed_3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/niaz-morshed3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niaz-morshed3" height="30" width="40" /></a>
+<a href="https://twitter.com/niiazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niazmorshed_3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niiazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niaz-morshed3" height="30" width="40" /></a>
 <a href="https://fb.com/niaz.morshedrafi.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niaz.morshedrafi.3" height="30" width="40" /></a>
-<a href="https://instagram.com/niazmorshed_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niazmorshed_3" height="30" width="40" /></a>
+<a href="https://instagram.com/niiazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niazmorshed_3" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/niazmorshedrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niazmorshedrafi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/niazmorshedrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niazmorshedrafi" height="30" width="40" /></a>
 </p>
