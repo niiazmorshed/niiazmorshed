@@ -1,9 +1,26 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47d3jfwjpg3cjk3tkwzjczq3mp0crhihox4nbbj0tr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Niaz+Morshed;MERN+Stack+Developer;Programming+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi, I'm Niaz Morshed</h1>
-<h3 align="center">I am a passionate MERN Stack developer and programming enthusiast, aspiring to make something creative with the skills I have gained so far. I also love to travel and play games </h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47d3jfwjpg3cjk3tkwzjczq3mp0crhihox4nbbj0tr&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" height="200">
+</div>
+
+<div align="center">
+  <h3>🚀 Passionate MERN Stack Developer | 💻 Programming Enthusiast | 🌍 Travel Lover | 🎮 Gamer</h3>
+  <p>I am passionate about creating innovative web applications and always eager to learn new technologies. When I'm not coding, you'll find me exploring new places or enjoying some gaming adventures!</p>
+</div>
+
+---
+
+## 🚀 **About Me**
+
+- 🔭 I'm currently working on **MERN Stack Projects**
+- 🌱 I'm currently learning **Advanced React Patterns & Cloud Technologies**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 📫 How to reach me: **niiazmorshed@gmail.com**
+- ⚡ Fun fact: **I can debug code while sleeping! 😴**
 
 ## :mailbox: Connect With Me
 
@@ -59,3 +76,24 @@
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niiazmorshed&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
 </p>
+
+---
+
+## 🎯 **Goals & Achievements**
+
+- 🏆 **2024 Goal**: Master Advanced React Patterns & State Management
+- 🚀 **Next Milestone**: Deploy 5+ Full-Stack Applications
+- 📚 **Learning**: Cloud Technologies (AWS/Azure) & Microservices
+- 🌟 **Achievement**: Building Responsive & Scalable Web Applications
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=niiazmorshed&style=flat-square&color=00D4AA" alt="Profile Views"/>
+  
+  <p>⭐ Star this repository if you found it helpful!</p>
+  
+  <img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/tag.svg" alt="GitHub Tag" width="200"/>
+  
+  <p><strong>Thanks for visiting my profile! 🚀</strong></p>
+</div>
