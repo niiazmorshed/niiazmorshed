@@ -7,20 +7,11 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Passionate MERN Stack Developer | 💻 Programming Enthusiast | 🌍 Travel Lover | 🎮 Gamer</h3>
+  <h3> Passionate MERN Stack Developer |  Programming Enthusiast | Travel Lover |  Gamer</h3>
   <p>I am passionate about creating innovative web applications and always eager to learn new technologies. When I'm not coding, you'll find me exploring new places or enjoying some gaming adventures!</p>
 </div>
 
 ---
-
-## 🚀 **About Me**
-
-- 🔭 I'm currently working on **MERN Stack Projects**
-- 🌱 I'm currently learning **Advanced React Patterns & Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 How to reach me: **niiazmorshed@gmail.com**
-- ⚡ Fun fact: **I can debug code while sleeping! 😴**
 
 ## :mailbox: Connect With Me
 
@@ -79,32 +70,4 @@
 
 ---
 
-## 🎯 **Goals & Achievements**
 
-- 🏆 **2024 Goal**: Master Advanced React Patterns & State Management
-- 🚀 **Next Milestone**: Deploy 5+ Full-Stack Applications
-- 📚 **Learning**: Cloud Technologies (AWS/Azure) & Microservices
-- 🌟 **Achievement**: Building Responsive & Scalable Web Applications
-
----
-
-## 📫 **Get In Touch**
-
-<div align="center">
-  <p>Feel free to reach out if you want to collaborate on projects or just have a chat about technology!</p>
-  <a href="mailto:niiazmorshed@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=niiazmorshed&style=flat-square&color=00D4AA" alt="Profile Views"/>
-  
-  <p>⭐ Star this repository if you found it helpful!</p>
-  
-  <img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/tag.svg" alt="GitHub Tag" width="200"/>
-  
-  <p><strong>Thanks for visiting my profile! 🚀</strong></p>
-</div>
