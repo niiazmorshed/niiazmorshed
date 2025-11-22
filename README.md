@@ -13,40 +13,6 @@
 
 ---
 
-## :mailbox: Connect With Me
-
-<p align="center">
-  <br/>
-<a href="https://twitter.com/niiazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niazmorshed_3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/niiazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niaz-morshed3" height="30" width="40" /></a>
-<a href="https://fb.com/niiazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niaz.morshedrafi.3" height="30" width="40" /></a>
-<a href="https://instagram.com/niiazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niazmorshed_3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/niazmorshedrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niazmorshedrafi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/niiazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niazmorshedrafi" height="30" width="40" /></a>
-</p>
-
-## :computer: Technologies that I know
-
-<br>
-<p align="center">
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/HTML.png">
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/css.png"/>
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/tailwind.png"/>
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/JavaScript.png"/>
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/node.png"/>
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/express.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/mongo.png"/>
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/firebase.png"/>
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/react.png"/>
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/python.png"/>
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/cpp.png"/>
-<img src="https://github.com/niiazmorshed/niiazmorshed/blob/main/Icons/Bootsrap.png"/>
-</p>
-<p align="center">
-</p><br/>
-
 ## :chart_with_upwards_trend: GitHub Profile Stats
 
 <br />
